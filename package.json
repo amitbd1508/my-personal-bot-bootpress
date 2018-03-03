@@ -1,0 +1,20 @@
+{
+  "name": "my_bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-analytics": "^2.2.7",
+    "botpress-dialog": "^1.0.17",
+    "botpress-hitl": "^1.0.10",
+    "botpress-monetize": "^1.0.2",
+    "botpress-web": "1.x"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Botpress Proprietary License"
+}
